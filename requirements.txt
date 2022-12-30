@@ -1,0 +1,6 @@
+bs4
+os
+sys
+pyfiglet
+colorama
+random
